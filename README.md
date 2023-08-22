@@ -1,4 +1,4 @@
-# Synthetic Images
+# ArtificialAMF
 This repository accompanies the paper "On the Creation and Optical Microstructure Characterisation of Additively Manufactured Foam Structures (AMF)" and holds the source code for the synthetic image generation pipeline.
  
 ## Prerequesites
