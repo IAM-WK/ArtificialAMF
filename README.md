@@ -11,5 +11,4 @@ There are two folders in this repo:
 - configs/ contains example config files that were generated while generating the images you'll find in the paper.
 
 ## Citation
-add paper citation
-   
+... To be done   
