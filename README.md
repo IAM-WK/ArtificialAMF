@@ -1,5 +1,6 @@
 # ArtificialAMF
 This repository accompanies the publication "On the Creation and Optical Microstructure Characterisation of Additively Manufactured Foam Structures (AMF)" and holds the source code for the artificial image generation pipeline for Additively Manufactured Foam Structures (AMF). It generates artificial images that correspond to microscope images of cutting planes through an AMF (2D images). You can adjust a lot of parameters for image generation and create a variety of AMF accordingly. 
+
 A description of how the algorithm generates the images can be found in the publication (see Citation section).
 
 ## Citation
