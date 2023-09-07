@@ -4,7 +4,7 @@ This repository accompanies the publication "On the Creation and Optical Microst
 A description of how the algorithm generates the images can be found in the publication (see Citation section).
 
 ## Citation
-... To be done   
+A. Heuer, M. Rees, K. A. Weidenmann, W. V. Liebig. On the Creation and Optical Microstructure Characterisation of Additively Manufactured Foam Structures (AMF). Polymers 2023, 15(17), 3544.
 
 ## Prerequesites
 We recommend creating a virtual environment with your favourite tool, but you won't need a lot of special packages for this repo.
