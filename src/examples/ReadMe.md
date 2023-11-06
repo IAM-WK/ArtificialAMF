@@ -9,9 +9,7 @@ the foam porosity, and the output directory.
 You can either run this script via your favorite IDE or via the command line, 
 specifying the parameters with named argument e.g.
 
-'''
-    Python generate_from_scratch.py -l 40 -r 1.5 -t 50 -f 30 -o path/to/output
-'''   
+`Python generate_from_scratch.py -l 40 -r 1.5 -t 50 -f 30 -o path/to/output`
 
 Apart from these specified parameters (which are called the UserConfig) there are a lot more parameters that should be 
 set to fitting defaults in the Parameters class and which are subject to change during the iteration process.
@@ -38,14 +36,8 @@ Due to the randomness involved in the generation process, the new generated imag
 The script can also be started either via your favorite IDE or the command line with specified arguments
 for the config file and the output folder:
 
-Python generate_from_config_file.py -f path/to/config/file -o path/to/output
-
+`Python generate_from_config_file.py -f path/to/config/file -o path/to/output
+`
 It is recommended to adapt the porosity-margin-parameters a bit (see script) if you don't want to save reiteration.
 Based on the randomness, it might be that the same config leads to slightly different porosity percentages. 
-Thus, if your allowed porosity margin is too small, the generation iterartion will start until an image is found that matches the desired porosities.
-
-## Generate published images
-This notebook also shows how to generate images based on a given config file.
-It generates the images that are included in the published paper.
-
-
+Thus, if your allowed porosity margin is too small, the generation iteration will start until an image is found that matches the desired porosities.
